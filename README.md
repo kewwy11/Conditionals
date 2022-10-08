@@ -1,0 +1,2 @@
+Using conditionals (if, else and elseif bonus(show)) to build a simple vue application. Using the hide/show button to toggle list items to be hidden or shown when clicked.
+Added list items using the for loop.
